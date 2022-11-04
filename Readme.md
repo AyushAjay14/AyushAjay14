@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ayush Ajay</h1>
 <h3 align="center">A Cyber-Security Enthusiast and a web developer from India</h3>
 
-![code](https://user-images.githubusercontent.com/79143485/199915597-842d0858-91fa-4502-b78f-fc098e837842.gif)
+(https://user-images.githubusercontent.com/79143485/199916483-08dcd276-daeb-4cb5-b118-89ee872a5b6e.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushajay14&label=Profile%20views&color=0e75b6&style=flat" alt="ayushajay14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushajay14&label=Profile%20views&color=0e75b6&style=flat" alt="ayushajay14" /> </p>![code]
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushajay14" alt="ayushajay14" /></a> </p>
 
